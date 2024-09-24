@@ -1,0 +1,118 @@
+[
+    {
+        "model": "llama3",
+        "created_at": "2024-09-24T18:35:35.841657077Z",
+        "response": "The",
+        "done": false
+    },
+    {
+        "model": "llama3",
+        "created_at": "2024-09-24T18:35:36.093648673Z",
+        "response": " answer",
+        "done": false
+    },
+    {
+        "model": "llama3",
+        "created_at": "2024-09-24T18:35:36.338455121Z",
+        "response": " to",
+        "done": false
+    },
+    {
+        "model": "llama3",
+        "created_at": "2024-09-24T18:35:36.586771118Z",
+        "response": " ",
+        "done": false
+    },
+    {
+        "model": "llama3",
+        "created_at": "2024-09-24T18:35:36.854394737Z",
+        "response": "5",
+        "done": false
+    },
+    {
+        "model": "llama3",
+        "created_at": "2024-09-24T18:35:37.108498623Z",
+        "response": " +",
+        "done": false
+    },
+    {
+        "model": "llama3",
+        "created_at": "2024-09-24T18:35:37.355102546Z",
+        "response": " ",
+        "done": false
+    },
+    {
+        "model": "llama3",
+        "created_at": "2024-09-24T18:35:37.608804182Z",
+        "response": "6",
+        "done": false
+    },
+    {
+        "model": "llama3",
+        "created_at": "2024-09-24T18:35:37.888593468Z",
+        "response": " is",
+        "done": false
+    },
+    {
+        "model": "llama3",
+        "created_at": "2024-09-24T18:35:38.143793768Z",
+        "response": " ",
+        "done": false
+    },
+    {
+        "model": "llama3",
+        "created_at": "2024-09-24T18:35:38.394490166Z",
+        "response": "11",
+        "done": false
+    },
+    {
+        "model": "llama3",
+        "created_at": "2024-09-24T18:35:38.644991109Z",
+        "response": ".",
+        "done": false
+    },
+    {
+        "model": "llama3",
+        "created_at": "2024-09-24T18:35:38.890792715Z",
+        "response": "",
+        "done": true,
+        "done_reason": "stop",
+        "context": [
+            128006,
+            882,
+            128007,
+            271,
+            3923,
+            374,
+            220,
+            20,
+            489,
+            220,
+            21,
+            30,
+            128009,
+            128006,
+            78191,
+            128007,
+            271,
+            791,
+            4320,
+            311,
+            220,
+            20,
+            489,
+            220,
+            21,
+            374,
+            220,
+            806,
+            13
+        ],
+        "total_duration": 3363526570,
+        "load_duration": 22898482,
+        "prompt_eval_count": 18,
+        "prompt_eval_duration": 250319000,
+        "eval_count": 13,
+        "eval_duration": 3049124000
+    }
+]
